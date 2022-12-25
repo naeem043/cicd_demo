@@ -17,4 +17,4 @@ jobs:
         server: pythonbd.com
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /home/pythonbd/public_html/demo.pythonbd.com/
+        server-dir: /public_html/demo.pythonbd.com/
